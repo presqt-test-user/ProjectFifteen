@@ -1,0 +1,38 @@
+{
+    "allEnhancedKeywords": [],
+    "actions": [
+        {
+            "id": "da34e6d9-106f-4c96-91df-6afffc5e425e",
+            "actionDateTime": "2020-05-11 18:08:40.491416+00:00",
+            "actionType": "resource_upload",
+            "sourceTargetName": "Local Machine",
+            "sourceUsername": null,
+            "destinationTargetName": "github",
+            "destinationUsername": "presqt-test-user",
+            "keywordEnhancements": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/ProjectFifteen/Screen_Shot_2019-07-15_at_3.51.13_PM.png",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "c2c9e09d94146fb7f849085113ed57f1",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Screen Shot 2019-07-15 at 3.51.13 PM.png",
+                        "sourceHashes": {
+                            "md5": "c2c9e09d94146fb7f849085113ed57f1"
+                        },
+                        "sourcePath": "/Screen Shot 2019-07-15 at 3.51.13 PM.png",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
