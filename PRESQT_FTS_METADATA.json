@@ -1,7 +1,51 @@
 {
     "allEnhancedKeywords": [
+        "dogs",
+        "wood",
+        "dirt",
+        "Catecholate(2-)",
+        "catecholate(2-)",
+        "catecholate",
+        "cat",
         "cats",
-        "dogs"
+        "Wood",
+        "airplane",
+        "benzene-1,2-diolate",
+        "C6H4O2"
     ],
-    "actions": []
+    "actions": [
+        {
+            "id": "9807a047-6bf7-452d-b95d-a7c00268b5f4",
+            "actionDateTime": "2020-05-12 20:55:19.034462+00:00",
+            "actionType": "transfer_enhancement",
+            "sourceTargetName": "github",
+            "sourceUsername": "presqt-test-user",
+            "destinationTargetName": "github",
+            "destinationUsername": "presqt-test-user",
+            "keywordEnhancements": {
+                "initialKeywords": [
+                    "airplane",
+                    "dirt",
+                    "wood",
+                    "cats",
+                    "dogs"
+                ],
+                "enhancedKeywords": [
+                    "catecholate(2-)",
+                    "Catecholate(2-)",
+                    "catecholate",
+                    "Wood",
+                    "benzene-1,2-diolate",
+                    "cat",
+                    "C6H4O2"
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
 }
