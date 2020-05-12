@@ -1,19 +1,73 @@
 {
     "allEnhancedKeywords": [
-        "benzene-1,2-diolate",
-        "wood",
-        "Catecholate(2-)",
         "C6H4O2",
-        "catecholate",
-        "dogs",
-        "cat",
-        "cats",
-        "dirt",
-        "catecholate(2-)",
+        "Catecholate(2-)",
+        "Wood",
+        "benzene-1,2-diolate",
         "airplane",
-        "Wood"
+        "catecholate(2-)",
+        "c6h4o2",
+        "benzene-12-diolate",
+        "catecholate2-",
+        "cats",
+        "cat",
+        "dogs",
+        "dirt",
+        "wood",
+        "catecholate"
     ],
     "actions": [
+        {
+            "id": "49b44b9e-7a70-4211-867a-d16d3e72a6ea",
+            "actionDateTime": "2020-05-12 18:11:21.636777+00:00",
+            "actionType": "transfer_enhancement",
+            "sourceTargetName": "github",
+            "sourceUsername": "presqt-test-user",
+            "destinationTargetName": "github",
+            "destinationUsername": "presqt-test-user",
+            "keywordEnhancements": {
+                "initialKeywords": [
+                    "airplane",
+                    "benzene-12-diolate",
+                    "c6h4o2",
+                    "cat",
+                    "catecholate",
+                    "catecholate2-",
+                    "cats",
+                    "dirt",
+                    "dogs",
+                    "wood",
+                    "benzene-1,2-diolate",
+                    "wood",
+                    "Catecholate(2-)",
+                    "C6H4O2",
+                    "catecholate",
+                    "dogs",
+                    "cat",
+                    "cats",
+                    "dirt",
+                    "catecholate(2-)",
+                    "airplane",
+                    "Wood"
+                ],
+                "enhancedKeywords": [
+                    "C6H4O2",
+                    "Catecholate(2-)",
+                    "Wood",
+                    "benzene-1,2-diolate",
+                    "catecholate(2-)",
+                    "cat",
+                    "wood",
+                    "catecholate"
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        },
         {
             "id": "188b1700-8162-430a-accd-943ae80f4e30",
             "actionDateTime": "2020-05-12 18:06:50.396025+00:00",
