@@ -1,7 +1,20 @@
 {
     "allEnhancedKeywords": [
+        "dogs",
         "cats",
-        "dogs"
+        "dirt",
+        "airplane",
+        "wood"
     ],
-    "actions": []
+    "actions": [
+        "id",
+        "actionDateTime",
+        "actionType",
+        "sourceTargetName",
+        "destinationTargetName",
+        "sourceUsername",
+        "destinationUsername",
+        "keywordEnhancements",
+        "files"
+    ]
 }
