@@ -1,56 +1,7 @@
 {
     "allKeywords": [
-        "dirt",
         "cats",
-        "dart",
-        "catecholate",
-        "catecholate(2-)",
-        "Wood",
-        "arsolane",
-        "C6H4O2",
-        "wood",
-        "cat",
-        "airplane",
-        "acats",
-        "Catecholate(2-)",
-        "doas",
-        "food",
-        "benzene-1,2-diolate",
         "dogs"
     ],
-    "actions": [
-        {
-            "id": "a015f271-0ca2-4f5f-bc52-5a350f9fefb2",
-            "details": "PresQT Transfer from GitHub to OSF",
-            "actionDateTime": "2020-08-20 14:30:24.654530+00:00",
-            "actionType": "transfer_enhancement",
-            "sourceTargetName": "github",
-            "sourceUsername": "presqt-test-user",
-            "destinationTargetName": "github",
-            "destinationUsername": "presqt-test-user",
-            "keywords": {
-                "sourceKeywordsAdded": [],
-                "sourceKeywordsEnhanced": [
-                    "dart",
-                    "catecholate",
-                    "catecholate(2-)",
-                    "Wood",
-                    "doas",
-                    "arsolane",
-                    "C6H4O2",
-                    "cat",
-                    "acats",
-                    "Catecholate(2-)",
-                    "food",
-                    "benzene-1,2-diolate"
-                ],
-                "enhancer": "scigraph"
-            },
-            "files": {
-                "created": [],
-                "updated": [],
-                "ignored": []
-            }
-        }
-    ]
+    "actions": []
 }
